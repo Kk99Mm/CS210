@@ -15,18 +15,23 @@ Tkinter is included by default with Python on most systems. If you encounter iss
 Install the MySQL connector for Python for database connectivity:
 - **On Ubuntu/Debian:**
   ```bash
-  sudo
   pip install mysql-connector-python
 
 ### 3. Panda
 Install pandas for data manipulation and analysis:
+- **On Ubuntu/Debian:**
+  ```bash
   pip install pandas
 
 ### 4. Scikit-Learn
 Install matplotlib for data visualization:
+- **On Ubuntu/Debian:**
+  ```bash
   pip install matplotlib
 
 ### 5. MySQL Connector
 Install FPDF for generating PDF documents:
+- **On Ubuntu/Debian:**
+  ```bash
   pip install fpdf
 
