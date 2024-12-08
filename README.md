@@ -13,6 +13,9 @@ Tkinter is included by default with Python on most systems. If you encounter iss
 
 ### 2. MySQL Connector
 Install the MySQL connector for Python for database connectivity:
+- **On Ubuntu/Debian:**
+  ```bash
+  sudo
   pip install mysql-connector-python
 
 ### 3. Panda
