@@ -13,21 +13,17 @@ Tkinter is included by default with Python on most systems. If you encounter iss
 
 ### 2. MySQL Connector
 Install the MySQL connector for Python for database connectivity:
- ```bash
   pip install mysql-connector-python
-  
+
 ### 3. Panda
 Install pandas for data manipulation and analysis:
- ```bash
   pip install pandas
 
 ### 4. Scikit-Learn
 Install matplotlib for data visualization:
- ```bash
   pip install matplotlib
 
 ### 5. MySQL Connector
 Install FPDF for generating PDF documents:
- ```bash
   pip install fpdf
 
